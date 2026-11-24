@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MOTTO 24/7 EPG">
+  <channel id="goldengirls.motto">
+    <display-name>THE GOLDEN GIRLS</display-name>
+  </channel>
+  <programme start="20261124000000 +0200" stop="20991231235959 +0200" channel="goldengirls.motto">
+    <title lang="el">Μαραθώνιος The Golden Girls</title>
+    <desc lang="el">Η Ντόροθι, η Ρόουζ, η Μπλανς και η Σοφία σε έναν ατελείωτο μαραθώνιο γέλιου! Συνεχόμενα επεισόδια της αγαπημένης κωμικής σειράς, 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα.</desc>
+    <category lang="el">Κωμωδία</category>
+    <category lang="el">Τηλεοπτική σειρά</category>
+  </programme>
+</tv>
