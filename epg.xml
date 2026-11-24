@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MOTTO 24/7 EPG">
+
   <channel id="goldengirls.motto">
     <display-name>THE GOLDEN GIRLS</display-name>
   </channel>
+
+  <channel id="judgejudy.motto">
+    <display-name>JUDGE JUDY</display-name>
+  </channel>
+
   <programme start="20261124000000 +0200" stop="20991231235959 +0200" channel="goldengirls.motto">
     <title lang="el">Μαραθώνιος The Golden Girls</title>
     <desc lang="el">Η Ντόροθι, η Ρόουζ, η Μπλανς και η Σοφία σε έναν ατελείωτο μαραθώνιο γέλιου! Συνεχόμενα επεισόδια της αγαπημένης κωμικής σειράς, 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα.</desc>
     <category lang="el">Κωμωδία</category>
     <category lang="el">Τηλεοπτική σειρά</category>
   </programme>
+
+  <programme start="20261124000000 +0200" stop="20991231235959 +0200" channel="judgejudy.motto">
+    <title lang="el">Τζατζ Τζούτζις μου – Δικάζει ασταμάτητα!</title>
+    <desc lang="el">Η αγαπημένη μας δικαστίνα μοιράζει δικαιοσύνη, προσβολές και εγκεφαλικά! Απίθανες υποθέσεις, ψεύτες, απατεώνες και πρώην που μαλλιοτραβιούνται για 50 δολάρια. Η Τζούτζις δεν χαρίζεται σε κανέναν. Το δικαστήριο συνεδριάζει 24 ώρες το 24ωρο, χωρίς διακοπή και χωρίς έλεος!</desc>
+    <category lang="el">Δικαστικό ξεκατίνιασμα</category>
+  </programme>
+
 </tv>
